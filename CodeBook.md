@@ -26,3 +26,6 @@ This file is responsible for performing all the activities described in the cour
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 The output of the script is the file tidy_data.txt.
+
+## Tidy Data
+This file contains the new data set with all the average measures for each subject and activity type (30 subjects * 6 activities = 180 rows).
